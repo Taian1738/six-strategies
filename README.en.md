@@ -1,6 +1,6 @@
 # Six Strategies (LT)
 
-[中文](./README.md)
+[中文](./README.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md) · [Español](./README.es.md) · [Français](./README.fr.md)
 
 Six Strategies is a software-engineering collaboration protocol for Codex. It turns complex build, repair, refactoring, and long-term maintenance work into an execution loop that is traceable, verifiable, and recoverable.
 
