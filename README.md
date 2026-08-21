@@ -1,6 +1,6 @@
 # 六韬（LT）
 
-[English](./README.en.md)
+[English](./README.en.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md) · [Español](./README.es.md) · [Français](./README.fr.md)
 
 六韬是一套面向 Codex 的软件工程协作协议，用于把复杂的软件构建、修复、重构与长期维护任务，组织成可追溯、可验证、可恢复的执行闭环。
 
