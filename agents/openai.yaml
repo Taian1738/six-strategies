@@ -1,0 +1,5 @@
+interface:
+  display_name: "六韬"
+  short_description: "用最少上下文和分层模型快速构建、修改并验证软件项目"
+  default_prompt: "使用 $ltskill 以低 token、可维护的方式完成这个软件任务。"
+
