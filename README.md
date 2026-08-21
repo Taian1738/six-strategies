@@ -12,7 +12,9 @@
 
 ## 包内容
 
-`ltskill-20260821-142646.zip` 是可导入的完整技能包，包含：
+仓库已按原目录结构提供全部文件；也可以从 [Release 直链](https://github.com/Taian1738/six-strategies/releases/download/v2026.08.21/ltskill-20260821-142646.zip) 下载完整 ZIP 技能包。
+
+完整技能包包含：
 
 - `SKILL.md`：六韬主协议，当前协议版本 `LT-2026-08-21.11`
 - `agents/openai.yaml`：代理配置
@@ -38,7 +40,8 @@
 ## 版本与校验
 
 - 协议版本：`LT-2026-08-21.11`
-- 发布包：[`ltskill-20260821-142646.zip`](./ltskill-20260821-142646.zip)
+- Release：[`v2026.08.21`](https://github.com/Taian1738/six-strategies/releases/tag/v2026.08.21)
+- 直接下载：[`ltskill-20260821-142646.zip`](https://github.com/Taian1738/six-strategies/releases/download/v2026.08.21/ltskill-20260821-142646.zip)
 - SHA-256：`20829445328F11803C781BC56C427D0E4DF284DB39939F552CA1816EF0844393`
 
 ## 许可
